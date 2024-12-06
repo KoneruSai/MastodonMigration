@@ -1,0 +1,11 @@
+Name,Type,IsSingleValue
+acct,categoryText,1
+"Centrality, In-Degree",number,1
+"Centrality, Out-Degree",number,1
+"Centrality, Total-Degree",number,1
+"Centrality, Total-Degree_normalized",number,1
+Component ID,categoryNumber,1
+"Density, Clustering Coefficient",number,1
+discipline,categoryText,1
+field,categoryText,1
+server,categoryText,1
